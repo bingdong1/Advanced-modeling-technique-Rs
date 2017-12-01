@@ -1,5 +1,6 @@
 # Try Neural Network
 # Start from SVM dataset
+# NN model based on the wildness foreset cover data set. 
 
 
 nn.covtype.train_STD.down <- covtype.train_STD.down
