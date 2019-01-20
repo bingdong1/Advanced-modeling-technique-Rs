@@ -59,7 +59,7 @@ library(data.table)
 # qplot(x=date, y=airt,
 #       data=harMetDaily.09.11, na.rm=TRUE,
 #       main="Air temperature Harvard Forest\n 2009-2011",
-#       xlab="Date", ylab="Temperature (°C)")
+#       xlab="Date", ylab="Temperature (Â°C)")
 # 
 # 
 # #Simple moving average
