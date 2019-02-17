@@ -1,6 +1,5 @@
 # title: "Team Checkpoint 2"
 # subtitle: "Forest Cover Type Prediction"
-# author: "Dong Bing, Richard Gunawarden, Kent Merdes, Christina Macholan, Tyler Wintermeyer
 # EDA
 
 rm(list=ls()) 
