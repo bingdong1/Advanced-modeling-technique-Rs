@@ -1,6 +1,5 @@
 # title: "Team Checkpoint 1"
 # subtitle: "Forest Cover Type Prediction"
-# author: "Dong Bing, Richard Gunawarden, Kent Merdes, Christina Macholan, Tyler Wintermeyer
 # EDA
 
 #.libPaths("\\\\file-chi-2/dbing$/R/win-library/3.3")
